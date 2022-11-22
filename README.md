@@ -18,8 +18,8 @@ We used Modal, Hopsworks, and Huggingface to build a Serverless ML system for th
 
 4. Write Gradio applications and deploy them on Huggingface. The applications provides UI to allow users to predict passeger surivival with given features and to show prediction history.
     
-    - Links to the HuggingFace spaces:
-      - [Iris Predictive Analysis](https://huggingface.co/spaces/ZinebSN/iris)
-      - [Iris Monitoring](https://huggingface.co/spaces/ZinebSN/iris-monitoring)
-      - [Titanic Predictive Analysis](https://huggingface.co/spaces/ZinebSN/titanic)
-      - [Titanic Monitoring](https://huggingface.co/spaces/ZinebSN/titanic-monitoring)
+- Links to the HuggingFace spaces:
+     - [Iris Predictive Analysis](https://huggingface.co/spaces/ZinebSN/iris)
+     - [Iris Monitoring](https://huggingface.co/spaces/ZinebSN/iris-monitoring)
+     - [Titanic Predictive Analysis](https://huggingface.co/spaces/ZinebSN/titanic)
+     - [Titanic Monitoring](https://huggingface.co/spaces/ZinebSN/titanic-monitoring)
